@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <time.h>
 #define N 20
-
+//Punto
 void main() {
     double vt[N];
     double *p ;
