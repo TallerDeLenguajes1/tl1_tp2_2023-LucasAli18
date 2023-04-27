@@ -1,11 +1,11 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
+#define N 20
 
 void main()
 {
     // codigo a completar
-    #define N 20
     srand(time(NULL));
     int i;
     double vt[N];
